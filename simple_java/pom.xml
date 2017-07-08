@@ -20,7 +20,7 @@
   <scm>
         <connection>scm:git:https://github.com/sridharreddy1994/mvn_repo.git</connection>
         <developerConnection>scm:git:https://github.com/sridharreddy1994/mvn_repo.git</developerConnection>
-    <tag>2.1 featurebranch</tag>
+    <tag>featurebranch</tag>
   </scm>
 		<build>
     <plugins>
